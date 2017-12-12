@@ -1,0 +1,3 @@
+pool.ckpool.org:3333
+pool.ckpool.org:443
+cgminer -o stratum+tcp://pool.ckpool.org:3333 -u 1PKN98VN2z5gwSGZvGKS2bj8aADZBkyhkZ.0 -p x
